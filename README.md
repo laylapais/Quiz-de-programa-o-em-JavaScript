@@ -1,1 +1,1 @@
-# Quiz-de-programa-o-em-JavaScript
+# Quiz-de-programacao-em-JavaScript
